@@ -241,7 +241,7 @@ This portfolio template is free to use and modify for personal and commercial pu
 
 For questions or issues:
 - Email: 613jay@sju.ac.kr
-- GitHub: [jayyoonakajaeha](https://github.com/jayakajaeha)
+- GitHub: [jayakajaeha](https://github.com/jayakajaeha)
 
 ---
 
